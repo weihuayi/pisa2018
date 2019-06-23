@@ -79,8 +79,56 @@ that extend beyond the classroom.
 型社会, 定位, 获取, 理解和反思各种信息的能力至关重要. 阅读素养不仅是教育体系中
 其它学科成功的基石, 也是成功参与成年大部分领域的前提(Cunningham and Stanovich,
 1997 [2] ; OECD, 2013 [3] ; Smith et al., 2000 [4]). PISA 框架用于评估义务教育
-阶段结束学生的阅读素养. 因此, PISA 框架必须超出课堂范围的, 关注阅读素养中查找, 选择, 解释, 整合
-和评估信息的技能, 
-).
+阶段结束时学生的阅读素养. 因此, PISA 框架必须关注阅读素养中查找, 选
+择, 解释, 整合和评估信息的技能, 这些文本信息来更宽泛的场景, 超出的课堂的范围.
+
+
+## 阅读素养性质的改变
+
+Evolving technologies have rapidly changed the ways in which people read and
+exchange information, both at home and in the workplace. The automation of
+routine jobs has created a demand for people who can adapt to quickly changing
+contexts and who can find and learn from diverse sources of information. In
+1997, when the first PISA framework for reading began to be discussed, just
+1.7% of the world’s population used the Internet.  By 2014, the number had
+grown to a global penetration rate of 40.4%, representing almost three billion
+people (International Telecommunications Union, 2014 [5] ). Between 2007 and
+2013, the number of mobile phone subscriptions doubled: in 2013, there were
+almost as many active subscriptions as people on earth (95.5 subscriptions per
+100 people) and the number of mobile broadband subscriptions had increased to
+almost two billion worldwide (International Telecommunications Union, 2014 [6]
+). The Internet increasingly pervades the life of all citizens, from learning
+in and out of school, to working in real or virtual workplaces, to dealing with
+personal matters such as taxes, health care or holiday planning.  Personal and
+professional development is a lifelong endeavour and the students of tomorrow
+will need to be skilled with digital tools in order to successfully manage the
+increased complexity and quantity of information available.
+
+无论在家里还是工作场所, 不断演化的技术已经急速地改变人们阅读和交换信息的方式.
+例行工作的自动化, 已经为人们创造了一个新的需求, 即能够适应快速变化的环境, 且能
+从多种信息源进行查找和学习. 在 1997 年, 即开始讨论第一个 PISA 的阅读框架时, 全
+世界只有 1.7% 的人口使用互联网. 到 2014 年为止, 使用互联网的人口已经达到 40.4%,
+接近 30 亿人口 (International Telecommunications Union, 2014 [5] ). 2007 年到
+2013 年间, 移动电话用户数量翻番. 在 2013 年移动电话保有量几乎和地球人数一样多(每
+100 人 95.5 部), 而移动宽带用户数量增加近 20 亿 (国际电信联盟, 2014年[6]). 因特
+网渗入所有公民的生活, 从学校内外的学习, 到真实或虚拟的工作场所的工作, 到处理个
+人事务如税收, 健康护理或者假期计划. 个人和专业发展是终身的努力, 明天的学生需要
+熟练掌握数字工具, 才能成功管理现有信息日益增长的复杂性和数量. 
+
+In the past, the primary interest when evaluating student reading literacy
+proficiency was the ability to understand, interpret and reflect upon single
+texts. While these skills remain important, greater emphasis on the integration
+of information technologies into citizens’ social and work lives requires that
+the definition of reading literacy be updated and extended. It must reflect the
+broad range of newer skills associated with literacy tasks required in the 21
+st century (Ananiadou and Claro, 2009 [7] ; Kirsch et al., 2002 [8] ; Rouet,
+2006 [9] ; Spiro et al., 2015 [10] ). This necessitates an expanded definition
+of reading literacy encompassing both basic reading processes and higher-level
+digital reading skills while recognising that what constitutes literacy will
+continue to change due to the influence of new technologies and changing social
+contexts (Leu et al., 2013 [11] ; 2015 [12] ).
+
+在过去, 评估学生阅读熟练程度时, 更关注学生理解, 解释和思考单一文本的能力. 当然,
+现在这些方面的技能仍然重要
 
 
