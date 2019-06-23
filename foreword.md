@@ -49,4 +49,18 @@ by adding Level 1c, which better describes the proficiency of the
 lowest-performing students.
 
 
-在 PISA 2018 中, 阅读是主要的评估领域
+在 PISA 2018 中, 和 2000 年和 2009 年一样, 阅读是主要的评估领域, 但把三个评估分
+量表重命名为"位置信息", "理解" 和"评价与反思". 并引入了两个新的分量表来描述学生
+单来源和多来源文本的素养. 阅读评分也增加 Level 1c, 从而可以更好的描述表现最差学
+生的熟练程度.
+
+PISA is the product of a collaborative effort between OECD and the governments
+of both OECD countries and its partner countries/economies. The assessments are
+developed cooperatively, agreed by participating countries/economies, and
+implemented by national organisations. The co-operation of students, teachers
+and principals in participating schools has been crucial to the success of PISA
+during all stages of development and implementation.
+
+PISA 是经合组织内部国家及外部合作国家或经济体通力合作的成果. 整个评估是由所有参
+与国或经济体共同商定合作制定的. PISA 在所有发展和实施阶段的成功, 有赖于各个参与学校的学
+生, 教师和校长.
