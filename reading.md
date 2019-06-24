@@ -131,4 +131,92 @@ contexts (Leu et al., 2013 [11] ; 2015 [12] ).
 在过去, 评估学生阅读熟练程度时, 更关注学生理解, 解释和思考单一文本的能力. 当然,
 现在这些方面的技能仍然重要
 
+## 阅读素养的定义
+
+
+Reading literacy is understanding, using, evaluating, reflecting on and engaging with texts
+in order to achieve one’s goals, to develop one’s knowledge and potential and to participate
+in society.
+
+阅读素养是理解, 使用, 评价, 反思和融合文本能力, 以实现个人目标，发展个人知
+识和潜力，并参与社会。
+
+Each part of the definition is considered in turn below, taking into account
+the original elaboration and some important developments in the definition of
+the domain that use evidence from PISA and other empirical studies and that
+take into account theoretical advances and the changing nature of the world.
+
+下面依次考虑定义的每个部分, 考虑会包括原始的阐述, 领域定义中的一些重要发展,
+用到了来自 PISA 和其它实验研究的证据, 以及理论的进展和世界性质的变化.
+
+###  Reading literacy 
+
+The term “reading literacy” is used instead of the term “reading” because it is
+likely to convey to a non-expert audience more precisely what the survey is
+measuring. “Reading” is often understood as simply decoding (e.g., converting
+written text into sounds), or even reading aloud, whereas the intention of this
+assessment is to measure much broader and more encompassing constructs. Reading
+literacy includes a wide range of cognitive and linguistic competencies, from
+basic decoding to knowledge of words, grammar and the larger linguistic and
+textual structures needed for comprehension, as well as integration of meaning
+with one’s knowledge about the world. It also includes metacognitive
+competencies: the awareness of and ability to use a variety of appropriate
+strategies when processing texts. Metacognitive competencies are activated when
+readers think about, monitor and adjust their reading activity for a particular
+goal.
+
+使用"Reading literacy" 替代 "reading" 的原因是, 阅读素养可以向一个非专家的听众
+更加精确地传递调查要测量的内容.  "Reading" 通常仅仅理解为简单的解码过程(即把书
+写文本转化为声音), 甚至是大声读出来, 但这项评估旨在衡量更广泛, 更包容的结构. 阅
+读素养包括广泛的认知和语言能力, 从基本的解码, 到理解需要的字词, 语法, 更大的语
+言和文本结构知识, 及融合意义到个人关于整个世界的知识中. 它也包括元认知能力: 能
+意识到并有能力采用多种组合的策略来处理文本. 当一个读者为了一个特定目的, 思考,
+监控和调整阅读活动时, 元认知能力就已经激活了.
+
+
+### ... is understanding, using, evaluating, reflecting on...
+
+The word “understanding” is readily connected with the widely accepted concept
+of “reading comprehension”, which states that all reading involves some level
+of integrating information from the text with the reader's pre-existing
+knowledge. Even at the earliest stages of reading, readers must draw on their
+knowledge of symbols (e.g., letters) to decode texts and must use their
+knowledge of vocabulary to generate meaning. However, this process of
+integration can also be much broader, including, for instance, the development
+of mental models of how texts relate to the world. 
+
+单词 "understanding" 与广泛接受的" 阅读理解(reading comprehension)" 联系紧密,
+也就是说所有的阅读都涉及到融合文本中的信息到读者已有的知识当中. 甚至在阅读的早
+期阶段, 读者必须利用他们符号的知识(字母)来解码文本, 用他们的词汇知识来产生意义.
+然而, 整合的过程也可以更宽泛, 例如包括发展文本联系世界的心智模型. 
+
+The word “using” refers to the notions of application and function – doing
+something with what we read.
+
+
+The term “evaluating” was added for PISA 2018 to incorporate the notion that
+reading is often goal-directed, and consequently the reader must weigh such
+factors as the veracity of the arguments in the text, the point of view of the
+author and the relevance of a text to the reader’s goals.  “Reflecting on” is
+added to “understanding”, “using” and “evaluating” to emphasise the notion that
+reading is interactive: readers draw on their own thoughts and experiences when
+engaging with text. Every act of reading requires some reflection, where
+readers review and relate information within the text with information from
+outside the text. As readers develop their stores of information, experience
+and beliefs, they constantly test what they read against outside knowledge,
+thereby continually reviewing and revising their sense of the text. Reflecting
+on texts can include weighing the author's claim(s), their use of rhetorical
+and other means of discourse, as well as inferring the author’s perspective. At
+the same time, incrementally and perhaps imperceptibly, readers’ reflections on
+texts may alter their sense of the world. Reflection might also require readers
+to consider the content of the text, apply their previous knowledge or
+understanding or think about the structure or form of the text. Each of these
+skills in the definition – “understanding”, “using”, “evaluating” and “
+reflecting on” – are necessary, but none is sufficient for successful reading
+literacy.
+
+
+
+单词 "using"
+
 
