@@ -138,7 +138,7 @@ Reading literacy is understanding, using, evaluating, reflecting on and engaging
 in order to achieve one’s goals, to develop one’s knowledge and potential and to participate
 in society.
 
-阅读素养是理解, 使用, 评价, 反思和融合文本能力, 以实现个人目标，发展个人知
+阅读素养是理解, 使用, 评价, 反思和融合文本的能力, 以实现个人目标，发展个人知
 识和潜力，并参与社会。
 
 Each part of the definition is considered in turn below, taking into account
@@ -165,12 +165,12 @@ strategies when processing texts. Metacognitive competencies are activated when
 readers think about, monitor and adjust their reading activity for a particular
 goal.
 
-使用"Reading literacy" 替代 "reading" 的原因是, 阅读素养可以向一个非专家的听众
-更加精确地传递调查要测量的内容.  "Reading" 通常仅仅理解为简单的解码过程(即把书
-写文本转化为声音), 甚至是大声读出来, 但这项评估旨在衡量更广泛, 更包容的结构. 阅
-读素养包括广泛的认知和语言能力, 从基本的解码, 到理解需要的字词, 语法, 更大的语
-言和文本结构知识, 及融合意义到个人关于整个世界的知识中. 它也包括元认知能力: 能
-意识到并有能力采用多种组合的策略来处理文本. 当一个读者为了一个特定目的, 思考,
+使用"Reading literacy" 替代 "reading" 的原因是, 阅读素养定义可以向一个非专家的
+听众更加精确地传递调查要测量的内容.  "Reading" 通常仅仅理解为简单的解码过程(即
+把书写文本转化为声音), 甚至是大声读出来, 但这项评估旨在衡量更广泛, 更包容的结构
+. 阅读素养包括广泛的认知和语言能力, 从基本的解码, 到理解需要的字词, 语法, 更大
+的语言和文本结构知识, 及融合意义到个人关于整个世界的知识中. 它也包括元认知能力:
+能意识到并有能力采用多种组合的策略来处理文本. 当一个读者为了一个特定目的, 思考,
 监控和调整阅读活动时, 元认知能力就已经激活了.
 
 
